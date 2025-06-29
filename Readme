@@ -1,0 +1,35 @@
+# Mental Health in Tech Survey Analysis
+
+This notebook presents an exploratory data analysis (EDA) of mental health trends in the tech industry using survey data. The goal is to understand factors influencing mental health, identify patterns, and highlight areas where workplaces can provide better support.
+
+## Contents
+
+- Data Cleaning and Preparation
+- Exploratory Data Analysis (EDA)
+- Visualizations of Key Trends
+- Insights and Observations
+
+## Key Features
+
+✅ Analysis of mental health treatment rates  
+✅ Visualization of workplace support dynamics  
+✅ Exploration of demographics and mental health impacts  
+✅ Insightful plots for storytelling and reporting
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## Usage
+
+Run the cells in order to reproduce the analysis. Modify the code to explore other variables or deeper insights.
+
+---
+
+**Note:** This analysis is purely exploratory and intended for educational and research purposes.
+
